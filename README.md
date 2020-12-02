@@ -1,2 +1,2 @@
-# advanced-computer-architecture
-Computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems.
+Computer architecture is a set of rules and methods that describe the
+functionality, organization, and implementation of computer systems.
