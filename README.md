@@ -88,3 +88,5 @@ A Domain Specific Architecture for Deep Neural Networks:
 
 A New Golden Age for Computer Architecture:
 - https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext
+
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/advanced-computer-architecture)
